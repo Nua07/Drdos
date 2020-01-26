@@ -43,16 +43,16 @@
       <HintPath>..\packages\MetroModernUI.1.4.0.0\lib\net\MetroFramework.Fonts.dll</HintPath>
     </Reference>
     <Reference Include="PcapDotNet.Base">
-      <HintPath>..\..\..\..\..\Desktop\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x86\PcapDotNet.Base.dll</HintPath>
+      <HintPath>..\PcapDotNet.1.0.4.x86\PcapDotNet.Base.dll</HintPath>
     </Reference>
     <Reference Include="PcapDotNet.Core">
-      <HintPath>..\..\..\..\..\Desktop\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x86\PcapDotNet.Core.dll</HintPath>
+      <HintPath>..\PcapDotNet.1.0.4.x86\PcapDotNet.Core.dll</HintPath>
     </Reference>
     <Reference Include="PcapDotNet.Core.Extensions">
-      <HintPath>..\..\..\..\..\Desktop\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x86\PcapDotNet.Core.Extensions.dll</HintPath>
+      <HintPath>..\PcapDotNet.1.0.4.x86\PcapDotNet.Core.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="PcapDotNet.Packets">
-      <HintPath>..\..\..\..\..\Desktop\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4\PcapDotNet.Binaries.1.0.4.x86\PcapDotNet.Packets.dll</HintPath>
+      <HintPath>..\PcapDotNet.1.0.4.x86\PcapDotNet.Packets.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
